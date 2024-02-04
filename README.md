@@ -64,17 +64,27 @@ Feel free to adjust the content based on your project's specific goals.
 
 ## Generate Sample Data:
 
+```R
 set.seed(42): Sets the random seed for reproducibility.
 x <- runif(100): Generates a vector with 100 random values between 0 and 1.
 y <- 2 * x + 1 + 0.1 * rnorm(100): Creates the dependent variable with a linear relationship to x and adds some random noise.
+```
 
 ## Add Constant Term:
+
+```R
 X <- cbind(1, x): Adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
+```
 
 ## Fit the OLS Model:
+
+```R
 model <- lm(y ~ X): Fits the OLS model to the data.
+```
 
 ## Print Model Summary:
-summary(model): Prints a summary of the OLS regression results, including coefficients, standard errors, t-values, p-values, and R-squared.
 
+```R
+summary(model): Prints a summary of the OLS regression results, including coefficients, standard errors, t-values, p-values, and R-squared.
+```
 
