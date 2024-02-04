@@ -30,22 +30,25 @@ y is the dependent variable with a linear relationship to x and added random noi
 
 ```python
 Copy codeX = sm.add_constant(x)
-sm.add_constant(x) adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
 ```
+
+sm.add_constant(x) adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
 
 ### Fit the OLS Model:
 
 ```python
 model = sm.OLS(y, X).fit()
-sm.OLS(y, X).fit() fits the OLS model to the data.
 ```
+
+sm.OLS(y, X).fit() fits the OLS model to the data.
 
 ### Print Model Summary:
 
 ```python
 print(model.summary())
-model.summary() prints a summary of the OLS regression results, including coefficients, standard errors, t-values, p-values, and R-squared.
 ```
+
+model.summary() prints a summary of the OLS regression results, including coefficients, standard errors, t-values, p-values, and R-squared.
 
 Future Roadmap:
 
