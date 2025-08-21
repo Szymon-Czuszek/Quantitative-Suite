@@ -15,7 +15,7 @@ import statsmodels.api as sm
 numpy is used for numerical operations.
 statsmodels is a library for estimating and testing statistical models.
 
-### Generate Sample Data:
+### 🎲 Generate Sample Data:
 
 ```python
 np.random.seed(42)
