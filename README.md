@@ -6,7 +6,7 @@ Welcome to the Data Analysis and Econometrics repository! This space is dedicate
 
 This repository contains Python code examples for applying econometric methods. Currently, it focuses on the Ordinary Least Squares (OLS) method for linear regression using the Statsmodels library.
 
-### Import Libraries:
+### 📦 Import Libraries:
 
 ```python
 import numpy as np
