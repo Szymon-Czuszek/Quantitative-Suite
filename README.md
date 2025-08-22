@@ -34,7 +34,7 @@ Copy codeX = sm.add_constant(x)
 
 sm.add_constant(x) adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
 
-### Fit the OLS Model:
+### ⚙️ Fit the OLS Model:
 
 ```python
 model = sm.OLS(y, X).fit()
