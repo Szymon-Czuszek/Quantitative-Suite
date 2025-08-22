@@ -26,7 +26,7 @@ numpy.random.seed(42) sets the random seed for reproducibility.
 x is a 1-dimensional array with 100 random values between 0 and 1.
 y is the dependent variable with a linear relationship to x and added random noise.
 
-### Add Constant Term:
+### ➕ Add Constant Term:
 
 ```python
 Copy codeX = sm.add_constant(x)
