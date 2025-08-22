@@ -42,7 +42,7 @@ model = sm.OLS(y, X).fit()
 
 sm.OLS(y, X).fit() fits the OLS model to the data.
 
-### Print Model Summary:
+### 📜 Print Model Summary:
 
 ```python
 print(model.summary())
