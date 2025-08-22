@@ -50,7 +50,7 @@ print(model.summary())
 
 model.summary() prints a summary of the OLS regression results, including coefficients, standard errors, t-values, p-values, and R-squared.
 
-Future Roadmap:
+### 🛠️ Future Roadmap
 
 Implement other econometric methods (e.g., Time Series Analysis, Panel Data Analysis).
 Develop visualizations for better understanding and interpretation.
