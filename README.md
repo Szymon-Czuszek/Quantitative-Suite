@@ -62,7 +62,7 @@ Feel free to adjust the content based on your project's specific goals.
 
 # 📘 Econometrics & R
 
-## Generate Sample Data:
+## 🎲 Generate Sample Data:
 
 ```R
 set.seed(42): Sets the random seed for reproducibility.
