@@ -70,7 +70,7 @@ x <- runif(100): Generates a vector with 100 random values between 0 and 1.
 y <- 2 * x + 1 + 0.1 * rnorm(100): Creates the dependent variable with a linear relationship to x and adds some random noise.
 ```
 
-## Add Constant Term:
+## ➕ Add Constant Term:
 
 ```R
 X <- cbind(1, x): Adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
