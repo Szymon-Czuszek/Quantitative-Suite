@@ -76,7 +76,7 @@ y <- 2 * x + 1 + 0.1 * rnorm(100): Creates the dependent variable with a linear 
 X <- cbind(1, x): Adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
 ```
 
-## Fit the OLS Model:
+## ⚙️ Fit the OLS Model:
 
 ```R
 model <- lm(y ~ X): Fits the OLS model to the data.
