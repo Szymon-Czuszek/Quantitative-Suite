@@ -60,7 +60,7 @@ Feel free to contribute, suggest improvements, or open issues for discussions!
 
 Feel free to adjust the content based on your project's specific goals.
 
-# Econometrics & R
+# 📘 Econometrics & R
 
 ## Generate Sample Data:
 
