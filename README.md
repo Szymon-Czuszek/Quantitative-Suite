@@ -13,7 +13,7 @@ This repository contains Python code examples for applying econometric methods. 
 import numpy as np
 import statsmodels.api as sm
 ```
-numpy is used for numerical operations.
+- 🔢 numpy is used for numerical operations.
 statsmodels is a library for estimating and testing statistical models.
 
 ### 🎲 Generate Sample Data:
