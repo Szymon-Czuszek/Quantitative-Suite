@@ -32,8 +32,7 @@ y = 2 * x + 1 + 0.1 * np.random.randn(100, 1)  # Dependent variable with noise
 ```python
 Copy codeX = sm.add_constant(x)
 ```
-
-sm.add_constant(x) adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
+- ⚡ sm.add_constant(x) adds a constant term (intercept) to the independent variable matrix. This is necessary for the OLS model to estimate the intercept.
 
 ### ⚙️ Fit the OLS Model:
 
