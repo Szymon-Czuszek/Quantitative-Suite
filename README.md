@@ -24,7 +24,7 @@ x = np.random.rand(100, 1)  # Independent variable
 y = 2 * x + 1 + 0.1 * np.random.randn(100, 1)  # Dependent variable with noise
 ```
 - 🎯 numpy.random.seed(42) sets the random seed for reproducibility.
-x is a 1-dimensional array with 100 random values between 0 and 1.
+- ➡️ x is a 1-dimensional array with 100 random values between 0 and 1.
 y is the dependent variable with a linear relationship to x and added random noise.
 
 ### ➕ Add Constant Term:
