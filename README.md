@@ -39,8 +39,7 @@ Copy codeX = sm.add_constant(x)
 ```python
 model = sm.OLS(y, X).fit()
 ```
-
-sm.OLS(y, X).fit() fits the OLS model to the data.
+- 📊 sm.OLS(y, X).fit() fits the OLS model to the data.
 
 ### 📜 Print Model Summary:
 
