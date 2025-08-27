@@ -50,7 +50,8 @@ print(model.summary())
 - ✅ coefficients
 - 📏 standard errors
 - 📊 t-values
-- 🧪 p-values, and R-squared.
+- 🧪 p-values
+- 🔍 R-squared
 
 ### 🛠️ Future Roadmap
 
