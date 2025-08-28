@@ -56,7 +56,7 @@ print(model.summary())
 ### 🛠️ Future Roadmap
 
 - ⏳ Implement other econometric methods (e.g., Time Series Analysis, Panel Data Analysis).
-Develop visualizations for better understanding and interpretation.
+- 📉 Develop visualizations for better understanding and interpretation.
 Provide more detailed explanations and tutorials for each method.
 Incorporate real-world datasets for practical applications.
 Feel free to contribute, suggest improvements, or open issues for discussions!
