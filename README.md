@@ -59,7 +59,7 @@ print(model.summary())
 - 📉 Develop visualizations for better understanding and interpretation.
 - 📚 Provide more detailed explanations and tutorials for each method.
 - 🌍 Incorporate real-world datasets for practical applications.
-Feel free to contribute, suggest improvements, or open issues for discussions!
+- 🙌 Feel free to contribute, suggest improvements, or open issues for discussions!
 
 Feel free to adjust the content based on your project's specific goals.
 
