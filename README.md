@@ -1,12 +1,13 @@
 # 📊 Quantitative-Suite
 
-- 🎓 Welcome to the Data Analysis and Econometrics repository!
-- 📈 This space is dedicated to providing examples and snippets for applying econometric methods using various tools such as:
-- 🐍 Python,
-- 📘 R,
-- 📊 GRETL,
-- 📑 Excel,
-- 📦 and more. 
+## 🎓 Welcome to the Data Analysis and Econometrics repository!
+
+### 📈 This project provides examples and snippets for applying econometric methods using various tools:
+- 🐍 Python
+- 📘 R
+- 📊 GRETL
+- 📑 Excel
+- 📦 ...and more
 
 ## 🐍 Python & Econometrics
 
