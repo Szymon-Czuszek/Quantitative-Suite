@@ -5,7 +5,8 @@
 - 🐍 Python,
 - 📘 R,
 - 📊 GRETL,
-- 📑 Excel, and more. 
+- 📑 Excel,
+- 📦 and more. 
 
 ## 🐍 Python & Econometrics
 
